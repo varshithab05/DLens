@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+torch
+torchvision
+pillow
+numpy
+captum
+tensorflow
+lime 
+shap
+tf-explain

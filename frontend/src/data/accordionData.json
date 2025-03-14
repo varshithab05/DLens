@@ -1,0 +1,52 @@
+[
+    {
+        "value": "item-1",
+        "trigger": "What is NeuroViz?",
+        "content": "NeuroViz is an interactive platform designed to visualize and understand deep learning model predictions using advanced explainability techniques."
+    },
+    {
+        "value": "item-2",
+        "trigger": "What can I do on this website?",
+        "content": "You can upload images, select models, and explore explainability methods like Grad-CAM, LIME, SHAP, and Saliency Maps to see how AI makes decisions."
+    },
+    {
+        "value": "item-3",
+        "trigger": "What machine learning models are available?",
+        "content": "NeuroViz supports MobileNet, ResNet, and VGG16 for making predictions and explaining their outputs."
+    },
+    {
+        "value": "item-4",
+        "trigger": "Which datasets are used?",
+        "content": "The platform works with popular datasets such as MNIST, CIFAR-10, and ImageNet, allowing users to test models on real-world data."
+    },
+    {
+        "value": "item-5",
+        "trigger": "What explainability methods are available?",
+        "content": "NeuroViz provides multiple explainability methods including Grad-CAM, LIME and Saliency Maps."
+    },
+    {
+        "value": "item-6",
+        "trigger": "How does Grad-CAM work?",
+        "content": "Grad-CAM highlights the most important regions in an image that influenced a model’s decision by generating a heatmap overlay."
+    },
+    {
+        "value": "item-7",
+        "trigger": "What does LIME do?",
+        "content": "LIME (Local Interpretable Model-agnostic Explanations) generates perturbed versions of an image and analyzes how the model’s predictions change to identify important features."
+    },
+    {
+        "value": "item-8",
+        "trigger": "How does the Saliency Map method work?",
+        "content": "Saliency Maps highlight the pixels in an image that have the highest impact on the model’s prediction, giving insights into feature importance."
+    },
+    {
+        "value": "item-9",
+        "trigger": "Is NeuroViz beginner-friendly?",
+        "content": "Absolutely! The platform is designed for both AI enthusiasts and researchers, with an intuitive UI and easy-to-understand explanations."
+    },
+    {
+        "value": "item-10",
+        "trigger": "Is there a GitHub repository for this project?",
+        "content": "Yes, you can find the source code on our GitHub repository. [Insert GitHub Link Here]"
+    }
+]
